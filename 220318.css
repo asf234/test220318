@@ -19,6 +19,7 @@ button{
   border-color: transparent;
   font-size: 30px;
   margin-bottom: 10px;
+  cursor: pointer;
 }
 .container div{
   width: 100%;
